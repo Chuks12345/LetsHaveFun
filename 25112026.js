@@ -148,13 +148,13 @@ function perfectNumber(number){
     if(sum==number){
     return "It is a perfect number";}
     else{
-    System.out.println(sum);
+    
     return "It is not a perfect number";}
     }
   
     }
 
-console.log(perectNumber(10));
+console.log(perfectNumber(10));
 
 
 
